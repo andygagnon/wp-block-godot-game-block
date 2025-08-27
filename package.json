@@ -1,0 +1,13 @@
+{
+  "name": "godot-game-block",
+  "version": "1.0.0",
+  "description": "A Gutenberg block for Godot games.",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.0.0"
+  }
+}

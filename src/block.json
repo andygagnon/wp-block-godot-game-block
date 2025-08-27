@@ -1,0 +1,21 @@
+{
+
+    "name": "create-block/godot-game-block",
+	"title": "Godot Game Block",
+	"category": "embed",
+	"icon": "games",
+	"description": "A block to embed a Godot WebAssembly game from a URL.",
+	"keywords": ["godot", "game", "webassembly", "embed"],
+	"version": "1.0.0",
+	"textdomain": "godot-game-block",
+	"attributes": {
+		"gameUrl": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"editorScript": "file:./index.js",
+	"style": "file:./style.scss",
+	"editorStyle": "file:./editor.scss"
+
+}
