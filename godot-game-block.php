@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Godot Game Block
  * Plugin URI:        https://example.com/godot-game-block/
- * Description:       A Gutenberg block to embed a Godot WebAssembly game.
+ * Description:       A WordPress plugin block to embed a Godot WebAssembly game.
  * Version:           1.0.0
  * Author:            Andre Gagnon
  * License:           GPL-2.0-or-later
