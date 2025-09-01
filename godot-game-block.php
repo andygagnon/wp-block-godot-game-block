@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Godot Game Block
+ * Plugin Name:       Godot Game Block - AAG
  * Plugin URI:        https://example.com/godot-game-block/
  * Description:       A WordPress plugin block to embed a Godot WebAssembly game.
  * Version:           1.0.0
